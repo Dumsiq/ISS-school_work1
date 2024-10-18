@@ -28,7 +28,7 @@ Este projeto visa educar sobre os riscos dos ataques de phishing, criando uma p�
 ## Instruções para Execução
 
 1. Acesse o site:
-["Nellix"](www.https://nellix.web.app/)
+["Nellix"](https://www.nellix.web.app/)
 2. Vá para a pagina de login.
 3. ⚠️Não coloque informações sensiveis⚠️ (futuramente os dados seram disponibilizados para visualização)
 
