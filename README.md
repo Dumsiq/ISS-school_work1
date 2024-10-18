@@ -12,7 +12,7 @@ Este é um projeto acadêmico desenvolvido como parte do trabalho bimestral do c
 Este projeto visa educar sobre os riscos dos ataques de phishing, criando uma página falsa da Netflix que coleta credenciais de login fictícias. **Atenção: Este projeto é exclusivamente para fins educacionais.** Nenhum dado real é coletado ou utilizado de maneira maliciosa.
 
 ## Estrutura do Projeto 
-(⚠️under construction⚠️)
+⚠️under construction⚠️
 ## Funcionalidades
 
 - Página web idêntica à página de login da Netflix.
@@ -30,7 +30,7 @@ Este projeto visa educar sobre os riscos dos ataques de phishing, criando uma p�
 1. Acesse o site:
 ["Nellix"](nellix.web.app)
 2. Vá para a pagina de login.
-3. ## ⚠️Não coloque informações sensiveis⚠️ (futuramente os dados seram disponibilizados para visualização)
+3. ⚠️Não coloque informações sensiveis⚠️ (futuramente os dados seram disponibilizados para visualização)
 
 ## Aviso Legal
 
